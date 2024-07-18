@@ -7,4 +7,4 @@
 >1. You already have access to an active GCP account
 >2. You have a billing enabled on GCP
 >3. You have enabled the necessary services (e.g. Vertex API, TPU API, etc)
->4. You understand how to service accounts, and provide them with the necessary privileges 
+>4. You understand how to us service accounts, and provide them with the necessary privileges 
